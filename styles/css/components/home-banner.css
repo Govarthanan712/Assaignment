@@ -1,0 +1,14 @@
+.home-banner-cont{
+    overflow: auto;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+    padding-left: 40px;
+    padding: 32px 0 0 var(--left-gap);
+}
+
+@media screen and (max-width: 767px) {
+    .banner-slide-img{
+        width: 328px;
+        height: 197px;
+    }    
+}

@@ -1,0 +1,38 @@
+.flash-deal-cont{
+    background: #f8f9fa url('/cashkaro/images/home/flash-deal/flash-deal-bg-img.png') no-repeat center/cover;
+    text-align: center;
+    height: 712px;
+}
+.flash-deal-title{
+    font-size: 56px;
+    line-height: 40px;
+    color: #FFF;
+    padding: 48px 0 24px 0;
+}
+.deal-ends-cont{
+    background: #FFF;
+    border-radius: 12px;
+    padding: 16px 24px;
+    width: fit-content;
+    margin: auto;
+    font-size: 18px;
+    line-height: 20px;
+}
+.schedule-icon{
+    margin-right: 8px;
+}
+.view-all-btn{
+    margin: 50px auto;
+    border-radius: 6px;
+    border: 1.5px solid;
+    border-image-source: linear-gradient(177.53deg, rgba(244, 244, 244, 0.42) 4.03%, rgba(255, 255, 255, 0.27) 96.03%);
+    backdrop-filter: blur(2px);
+    box-shadow: 0px 4px 24px -1px #FFFFFF33;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFF;
+    width: 364px;
+    height: 60px;
+    backdrop-filter: blur(2px);
+    border: 1.5px solid;
+}

@@ -1,0 +1,15 @@
+:root{
+    --section-gap: 64px;
+    --title-gap: 32px;
+    --left-gap: 40px;
+    --heading-size: 24px;
+}
+
+@media screen and (max-width: 767px) {
+    :root{
+        --section-gap: 32px;
+        --title-gap: 14px;
+        --left-gap: 16px;
+        --heading-size: 16px;
+    }
+}
