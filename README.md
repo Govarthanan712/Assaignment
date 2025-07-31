@@ -1,0 +1,1 @@
+Cashkaro homepage using hugo
